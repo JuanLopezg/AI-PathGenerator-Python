@@ -1,0 +1,30 @@
+{
+    "__lineasMetro__": true,
+    "lineas": [
+	[
+	    ["Piraeus", 0], ["Faliro", 2150], ["Moschato", 3950], ["Kalithea", 5550],
+	    ["Tavros", 6200], ["Petralona", 7100], ["Thissio", 8700], ["Monastiraki", 9200],
+	    ["Omonia", 10200], ["Victoria", 11200], ["Attiki", 12100], ["Aghios Nikolaos", 13050],
+	    ["Kato Patissia", 13550], ["Aghios Eleftherios", 14550], ["Ano Patissia", 15100],
+	    ["Perissos", 16500], ["Pefkakia", 17200], ["Nea Ionia", 17900], ["Iraklio", 19300],
+	    ["Irini", 20800], ["Neratziotissa", 21800], ["Maroussi", 23400], ["KAT", 24600],
+	    ["Kifissia", 25700]
+	],
+	[
+	    ["Aghios Antonios", 10600], ["Sepolia", 9300], ["Attiki", 8300], ["Larissa Station", 7400],
+	    ["Metaxourghio", 6650], ["Omonia", 5950], ["Panepistimio", 5450], ["Syntagma", 4900],
+	    ["Akropoli", 4000], ["Syngrou - Fix", 3450], ["Neos Kosmos", 2450], ["Aghios Ioanis", 1900],
+	    ["Dafni", 1000], ["Aghios Dimitrios Alexandros Panagoulis", 0]
+	],
+	[
+	    ["Egaleo", 0], ["Eleonas", 1300], ["Kerameikos", 3000], ["Monastiraki", 4600],
+	    ["Syntagma", 5550], ["Evangelismos", 6550], ["Megaro Moussikis", 7100],
+	    ["Ambelokipi", 8100], ["Panormou", 9000], ["Katehaki", 10100], ["Ethniki Amyna", 11400],
+	    ["Holargos", 12400], ["Nomismatokopio", 13600], ["Aghia Paraskevi", 14200],
+	    ["Halandri", 15100], ["Doukissis Plakentias", 16100], ["Pallini", 20700],
+	    ["Peania-Kantza", 23600], ["Koropi", 32600], ["Airport Eleftherios Venizelos", 39200]
+	]
+    ],
+    "stNodes": ["Monastiraki", "Omonia", "Victoria", "Attiki", "Larissa Station", 
+	"Metaxourghio", "Panepistimio", "Syntagma"]
+}
